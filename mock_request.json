@@ -1,0 +1,63 @@
+{
+    "user_sizes": {
+        "size": "40",
+        "length": "98",
+        "bust": "75",
+        "shoulder": "80",
+        "sleeve": "50",
+        "waist": "52",
+        "hip": "45",
+        "inside_leg": "50"
+    },
+    "product_sizes": [
+        {
+            "size": "38",
+            "length": "96",
+            "bust": "74",
+            "waist": "62",
+            "hip": "86"
+        },
+        {
+            "size": "40",
+            "length": "97",
+            "bust": "76",
+            "waist": "62",
+            "hip": "88"
+        },
+        {
+            "size": "42",
+            "length": "98",
+            "bust": "80",
+            "waist": "66",
+            "hip": "92"
+        },
+        {
+            "size": "44",
+            "length": "98",
+            "bust": "82",
+            "waist": "72",
+            "hip": "96"
+        },
+        {
+            "size": "46",
+            "length": "98",
+            "bust": "84",
+            "waist": "96",
+            "hip": "100"
+        },
+        {
+            "size": "48",
+            "length": "98",
+            "bust": "86",
+            "waist": "98",
+            "hip": "102"
+        },
+        {
+            "size": "50",
+            "length": "99",
+            "bust": "88",
+            "waist": "100",
+            "hip": "104"
+        }
+    ]
+}
